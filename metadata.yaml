@@ -1,0 +1,29 @@
+_repo: Whittaker--amp--Co.-s-List-of-Classical-Educational-and-Technical-WorksJuly-1889_40536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whittaker & Co.
+    aliases:
+    - Whittaker and Company
+    - Whittaker and Co.
+    gutenberg_agent_id: '40680'
+    url: http://www.gutenberg.org/2009/agents/40680
+description: ''
+gutenberg_issued: '2012-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcsh 'Whittaker & Co. -- Catalogs'
+title: Whittaker & Co.'s List of Classical, Educational and Technical Works. July
+  1889
+url: http://www.gutenberg.org/ebooks/40536
